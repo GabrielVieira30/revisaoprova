@@ -1,25 +1,25 @@
 header{
-    background-color: blue;
+    background-color: rgb(255, 153, 0);
     padding: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 main{
-    background-color: brown;
+    background-color: rgb(0, 0, 0);
     padding: 200px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
 footer{
-    background-color: black;
+    background-color: rgba(255, 136, 0, 0.836);
     padding: 20px;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
 .div{
-    background-color: yellow;
+    background-color: rgb(255, 146, 4);
     padding: 80px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
